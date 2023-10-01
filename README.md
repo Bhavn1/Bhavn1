@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cilver Bhavani</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src=https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavn1&label=Profile%20views&color=0e75b6&style=flat" alt="bhavn1" /> </p>
